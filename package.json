@@ -1,0 +1,7 @@
+{
+  "name": "dun-rose-test",
+  "devDependencies": {
+    "eslint": "^8.19.0",
+    "eslint-config-htmlacademy": "^6.0.0"
+  }
+}

@@ -1,0 +1,8 @@
+parserOptions:
+  ecmaVersion: 2019
+  sourceType: "module"
+env:
+  es2017: true
+  browser: true
+  commonjs: true
+extends: "htmlacademy/vanilla"

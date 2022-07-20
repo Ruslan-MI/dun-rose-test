@@ -3,7 +3,7 @@ class Num {
     this.id = id;
   }
 
-  getSquareValue() {
+  getSquareId() {
     return this.id ** 2;
   }
 }
